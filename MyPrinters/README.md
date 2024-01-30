@@ -1,3 +1,3 @@
-# withershins.us
+# EldestGruff's Printing Info
 
-Website for withershins.us
+Info about my printers, configs, mods, etc...
